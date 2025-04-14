@@ -12,7 +12,7 @@ To simulate real-world cyber incidents, detect them using IBM QRadar and Microso
 ## 🔧 Tools Used:
 - IBM QRadar SIEM  
 - Microsoft Defender for Endpoint  
-- Windows Server 11 (log source)  
+- Windows Server 2019 (log source)  
 - VirusTotal, Cisco Talos (Threat Intel)
 
 ## 🧪 Simulated Security Events:
