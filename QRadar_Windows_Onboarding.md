@@ -67,8 +67,11 @@
 1. Trigger an event on the Windows Server (e.g., login/logout)
 2. In QRadar:
    - Go to **Log Activity**
-   - Set filter: `Log Source = WinServer2019-DC`
-   - Check for incoming events
+   - Set filter: `Log Source = WIN-G3GK591KL48`
+![image](https://github.com/user-attachments/assets/400d6040-ec82-4f92-bfe6-313ef9193d25)
+
+   - Check for incoming events[e.g. login success or failed]
+![image](https://github.com/user-attachments/assets/9d7d1430-5386-48f3-bc69-9c6f3e5fd2ca)
 
 ---
 
