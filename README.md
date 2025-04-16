@@ -31,7 +31,7 @@ To simulate real-world cyber incidents, detect them using IBM QRadar and Microso
 
 ## 🛠️ Incident Response:
 - Investigated logs and alerts
-- Identified host: WIN-SRV01
+- Identified host: WIN-G3GK591KL48
 - Documented findings
 - Simulated escalation to higher tier
 
