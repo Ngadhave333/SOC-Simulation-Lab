@@ -15,6 +15,18 @@ To simulate real-world cyber incidents, detect them using IBM QRadar and Microso
 - Windows Server 2019 (log source)  
 - VirusTotal, Cisco Talos (Threat Intel)
 
+# Security Onboarding Documentation
+
+This repository contains detailed onboarding procedures for our cybersecurity tools and infrastructure.
+
+## 📘 Index
+
+- [EDR Onboarding](./EDR_onboarding.md)
+- [IBM QRadar with Windows Server 2019](./QRadar_Windows2019_Onboarding.md)
+- [WinCollect Agent Installation](./WinCollect_Agent_Installation.md)
+- [Onboarding Tracker](./onboarding_tracker.md)
+
+
 ## 🧪 Simulated Security Events:
 | Event | Description |
 |-------|-------------|
