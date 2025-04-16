@@ -22,7 +22,7 @@ This repository contains detailed onboarding procedures for our cybersecurity to
 ## 📘 Index
 
 - [EDR Onboarding](./EDR_onboarding.md)
-- [IBM QRadar with Windows Server 2019](./QRadar_Windows2019_Onboarding.md)
+- [QRadar_Windows_Onboarding](./QRadar_Windows_Onboarding.md)
 - [WinCollect Agent Installation](./WinCollect_Agent_Installation.md)
 - [Onboarding Tracker](./onboarding_tracker.md)
 
