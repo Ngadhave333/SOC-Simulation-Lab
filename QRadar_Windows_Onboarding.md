@@ -48,8 +48,9 @@
 2. Go to **Admin > Log Sources**
 3. Click **Log Sources**
 ![image](https://github.com/user-attachments/assets/dda109c0-a0ec-47ba-9ae7-99be0db7361a)
+
 4. **Log Sources Management** [list of logs sources]
-![image](https://github.com/user-attachments/assets/58624ed7-400c-4d9d-9526-d0dc41b5f45d)
+  ![image](https://github.com/user-attachments/assets/58624ed7-400c-4d9d-9526-d0dc41b5f45d)
 
 
 #### Example Configuration:
