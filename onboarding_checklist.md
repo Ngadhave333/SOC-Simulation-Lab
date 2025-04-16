@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec0f0816-4440-4509-b54f-0d0a9064142d)## 🛡️ Microsoft Defender for Endpoint (MDE) - Endpoint Setup
+## 🛡️ Microsoft Defender for Endpoint (MDE) - Endpoint Setup
 
 ### 1️⃣ Onboarding Windows Server 2019 to MDE
 - ✅ Download script from M365 Defender Portal
