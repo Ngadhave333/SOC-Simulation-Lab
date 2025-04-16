@@ -1,4 +1,4 @@
-## 🛡️ Microsoft Defender for Endpoint (MDE) - Endpoint Setup
+![image](https://github.com/user-attachments/assets/ec0f0816-4440-4509-b54f-0d0a9064142d)## 🛡️ Microsoft Defender for Endpoint (MDE) - Endpoint Setup
 
 ### 1️⃣ Onboarding Windows Server 2019 to MDE
 - ✅ Download script from M365 Defender Portal
@@ -7,6 +7,8 @@
 
 
 - ✅ Run script on endpoint
+![image](https://github.com/user-attachments/assets/cb09b251-918b-4b05-80e0-aeedc58db24b)
+
 - ✅ Check service and Azure AD join status
 
 ### 2️⃣ Validate in EDR Console
