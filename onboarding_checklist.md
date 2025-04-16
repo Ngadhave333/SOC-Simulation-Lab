@@ -3,7 +3,7 @@
 ### 1️⃣ Onboarding Windows Server 2019 to MDE
 - ✅ Download script from M365 Defender Portal
 ![image](https://github.com/user-attachments/assets/ca28ee42-bfb2-4dba-bbeb-016f885b1cbe)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c423f7e0-b2b1-4813-8b04-e3d8badc4418)
 
 
 - ✅ Run script on endpoint
