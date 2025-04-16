@@ -13,5 +13,9 @@
 
 ### 2️⃣ Validate in EDR Console
 - 🔍 Check device appears under Inventory
+![image](https://github.com/user-attachments/assets/82fde20c-2b74-446d-8870-9e639ade464a)
+
 - 🟢 Confirm sensor health and status
+![image](https://github.com/user-attachments/assets/ac32ee18-b7bc-44b3-afcf-f973c463c1fc)
+
 - ❗ Troubleshoot using logs & analyzer tool
