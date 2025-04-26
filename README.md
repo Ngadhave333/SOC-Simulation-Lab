@@ -24,7 +24,7 @@ This repository contains detailed onboarding procedures for our cybersecurity to
 - [EDR Onboarding](./EDR_onboarding.md)
 - [QRadar_Windows_Onboarding](./QRadar_Windows_Onboarding.md)
 - [WinCollect Agent Installation](./WinCollect_Agent_Installation.md)
-- [Onboarding_Tracker](./onboarding_tracker.md)
+- [Onboarding_Tracker](./Onboarding_Tracker.md)
 
 
 ## 🧪 Simulated Security Events:
